@@ -1,0 +1,125 @@
+
+.tricepcontainering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.bicepHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.cardcontain{
+    display: flex;
+}
+
+.tricepcard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/triceppushdown.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard1:hover{
+    transform: scale(1.02);
+}
+
+.tricepcard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/ropepushdwon.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard2:hover{
+    transform: scale(1.02);
+}
+
+.tricepcard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/singlearmpushdown.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard3:hover{
+    transform: scale(1.02);
+}
+
+.tricepcard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/overhead.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard4:hover{
+    transform: scale(1.02);
+}
+
+.tricepcard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/skullcurhser.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard5:hover{
+    transform: scale(1.02);
+}
+
+.tricepcard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Tricep/lyingexternsion.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.tricepcard6:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: start;
+}

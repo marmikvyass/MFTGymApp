@@ -1,0 +1,33 @@
+.timer{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.input{
+    margin-top: 5px;
+    height: 30px;
+    width:100px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.startbtn{
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+    transition: 0.3s;
+    background-color: white;
+    color: black;
+}
+
+.startbtn:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,90 @@
+
+.container1{
+    height: 100vh;
+    width: 100vw;
+    background-color: #003153;
+    background-image: linear-gradient(315deg, #003153 0%, #1B1B1B 74%);
+    color: white;
+}
+
+.titleHeader{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 800;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.titleDesc{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.fatcards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 50px;
+}
+
+.fatcard{
+    height: 480px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #cdc1ff;
+    background-image: linear-gradient(316deg, #cdc1ff 0%, #e5d9f2 74%);
+    font-size: 20px;
+    transform: scale(1);
+    transition: 0.3s;
+    font-weight: 630;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+.fatcard:hover{
+    transform: scale(1.1);
+    background-color: #fbceb1;
+    background-image: linear-gradient(319deg, #fbceb1 0%, #ff6961 37%, #ff6347 100%);
+}
+
+.cardTitle{
+    color: black;
+    padding-left: 10px;
+}
+.fatimg{
+    border-radius: 10px 10px 0px 0px;
+    height: 60%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.fatcardText{
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+.cardBtn{
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0);
+    font-size: 18px;
+    transform: scale(1);
+    transition: 0.3s;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.cardBtn:hover{
+    transform: scale(1.1);
+    cursor: pointer; 
+    background-color: black;
+    color: white;
+}

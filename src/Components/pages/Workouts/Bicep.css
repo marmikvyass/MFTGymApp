@@ -1,0 +1,168 @@
+
+.containering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.bicepHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.bicepcard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/cablehammer.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard1:hover{
+    transform: scale(1.02);
+}
+
+.bicepcard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/crossbody.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard2:hover{
+    transform: scale(1.02);
+}
+
+.bicepcard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/hammercurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard3:hover{
+    transform: scale(1.02);
+}
+
+.bicepcard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/preachercurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard4:hover{
+    transform: scale(1.02);
+}
+
+.bicepcard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/concentrationcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard5:hover{
+    transform: scale(1.02);
+}
+
+.bicepcard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/dumblepreachercurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard6:hover{
+    transform: scale(1.02);
+}
+.bicepcard7{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/onearmscablebicepcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard7:hover{
+    transform: scale(1.02);
+}
+.bicepcard8{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/inclinebicepcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.3s;
+    transform: scale(1);
+    
+}
+
+.bicepcard8:hover{
+    transform: scale(1.02);
+}
+.bicepcard9{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Bicep/cablecurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.bicepcard9:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-left: 130px;
+}

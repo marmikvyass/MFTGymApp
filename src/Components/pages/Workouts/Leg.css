@@ -1,0 +1,168 @@
+
+.containering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.bicepHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.legcard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverlegextension.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard1:hover{
+    transform: scale(1.02);
+}
+
+.legcard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/squats.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard2:hover{
+    transform: scale(1.02);
+}
+
+.legcard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/widelegpress.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard3:hover{
+    transform: scale(1.02);
+}
+
+.legcard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverlyingcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard4:hover{
+    transform: scale(1.02);
+}
+
+.legcard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverkneelingcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard5:hover{
+    transform: scale(1.02);
+}
+
+.legcard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverseatedcurl.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard6:hover{
+    transform: scale(1.02);
+}
+.legcard7{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverhipabduction.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard7:hover{
+    transform: scale(1.02);
+}
+.legcard8{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/leverstandingcalfrasie.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.3s;
+    transform: scale(1);
+    
+}
+
+.legcard8:hover{
+    transform: scale(1.02);
+}
+.legcard9{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Legs/smithseatedcalfraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.legcard9:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-left: 130px;
+}

@@ -1,0 +1,168 @@
+
+.containering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.ChestHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.chestcard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/inclinedumblepress.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard1:hover{
+    transform: scale(1.02);
+}
+
+.chestcard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/cablelowfly.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard2:hover{
+    transform: scale(1.02);
+}
+
+.chestcard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/leverincline.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard3:hover{
+    transform: scale(1.02);
+}
+
+.chestcard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/leverchest.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard4:hover{
+    transform: scale(1.02);
+}
+
+.chestcard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/pecdec.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard5:hover{
+    transform: scale(1.02);
+}
+
+.chestcard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/benchpress.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard6:hover{
+    transform: scale(1.02);
+}
+.chestcard7{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/declinebenchpress.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard7:hover{
+    transform: scale(1.02);
+}
+.chestcard8{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/cablestanding.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.3s;
+    transform: scale(1);
+    
+}
+
+.chestcard8:hover{
+    transform: scale(1.02);
+}
+.chestcard9{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Chest/chestdip.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.chestcard9:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-left: 130px;
+}

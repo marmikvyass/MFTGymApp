@@ -1,0 +1,216 @@
+
+.containering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.BackHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.backcard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/tbar.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard1:hover{
+    transform: scale(1.02);
+}
+
+.backcard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/widegrip.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard2:hover{
+    transform: scale(1.02);
+}
+
+.backcard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/LeverSeated.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard3:hover{
+    transform: scale(1.02);
+}
+
+.backcard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/palmrotation.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard4:hover{
+    transform: scale(1.02);
+}
+
+.backcard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/barbellbentover.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard5:hover{
+    transform: scale(1.02);
+}
+
+.backcard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/closegripseated.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard6:hover{
+    transform: scale(1.02);
+}
+.backcard7{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/hyperextension.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard7:hover{
+    transform: scale(1.02);
+}
+.backcard8{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/deadlift.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.3s;
+    transform: scale(1);
+    
+}
+
+.backcard8:hover{
+    transform: scale(1.02);
+}
+.backcard9{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/superman.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard9:hover{
+    transform: scale(1.02);
+}
+
+.backcard10{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/latpulldown.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard10:hover{
+    transform: scale(1.02);
+}
+
+.backcard11{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/singlelat.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard11:hover{
+    transform: scale(1.02);
+}
+
+.backcard12{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Back/latpushdown.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.backcard12:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-left: 130px;
+}

@@ -1,0 +1,168 @@
+
+.containering{
+    background-color: rgb(36, 61, 61);
+    color: white;
+}
+
+.bicepHeading{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.innerContainer1{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.shouldercard1{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/lateralraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard1:hover{
+    transform: scale(1.02);
+}
+
+.shouldercard2{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/leverlateralraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard2:hover{
+    transform: scale(1.02);
+}
+
+.shouldercard3{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/cablelateralraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard3:hover{
+    transform: scale(1.02);
+}
+
+.shouldercard4{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/dumbellfrontraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard4:hover{
+    transform: scale(1.02);
+}
+
+.shouldercard5{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/weightedfrontraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard5:hover{
+    transform: scale(1.02);
+}
+
+.shouldercard6{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/cablefrontraise.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard6:hover{
+    transform: scale(1.02);
+}
+.shouldercard7{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/reversepecdec.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard7:hover{
+    transform: scale(1.02);
+}
+.shouldercard8{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/cablereardelt.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: 0.3s;
+    transform: scale(1);
+    
+}
+
+.shouldercard8:hover{
+    transform: scale(1.02);
+}
+.shouldercard9{
+    height: 300px;
+    width: 400px;
+    border: 10px;
+    background-image:url('./Shoulder/reardeltfly.gif');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    border: 1px solid black;transform: scale(1);
+    transition: 0.3s;
+}
+
+.shouldercard9:hover{
+    transform: scale(1.02);
+}
+
+.brachialies{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 40px;
+    margin-left: 130px;
+}
